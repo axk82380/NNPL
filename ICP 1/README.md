@@ -1,5 +1,5 @@
 # Below is the Video Presentation for ICP-1
-https://drive.google.com/file/d/1L9JQZBGt92bdc9t4fhnV-qVz1YF4PK-8/view?usp=drive_link
+https://drive.google.com/file/d/1L9JQZBGt92bdc9t4fhnV-qVz1YF4PK-8/view?usp=sharing
 
 # Outputs for ICP 1
 ## Output for 1st Question - 1.ipynb
